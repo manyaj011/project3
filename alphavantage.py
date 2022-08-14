@@ -1,6 +1,6 @@
 import wget
 apikey = 'YOUR KEY'
-location = '/Users/man/Desktop/'
+location = '/This PC/Downloads/'
 
 # todo Time Series
 
