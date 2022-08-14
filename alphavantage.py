@@ -1,6 +1,6 @@
 import wget
-apikey = 'EPXURL4BRANU0TF4'
-location = '/Users/adity/Desktop/'
+apikey = 'YOUR KEY'
+location = '/Users/man/Desktop/'
 
 # todo Time Series
 
